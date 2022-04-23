@@ -1,12 +1,12 @@
-![Blue Gray Modern Project Manager LinkedIn Banner](https://user-images.githubusercontent.com/95564961/164862910-f3fc1136-7194-42a3-b220-49cfcc490c26.png)
+<!-- ![Blue Gray Modern Project Manager LinkedIn Banner](https://user-images.githubusercontent.com/95564961/164862910-f3fc1136-7194-42a3-b220-49cfcc490c26.png) -->
 
 
 
 
 
-<!-- <p align="center">
+<p align="center">
   <img  src="https://user-images.githubusercontent.com/95564961/164411517-80fe4a19-0724-4260-ac82-c7fdca9c137d.png"  width="128" height="96">
-</p> -->
+</p>
 
 
 <!-- ![logo](https://user-images.githubusercontent.com/95564961/164411517-80fe4a19-0724-4260-ac82-c7fdca9c137d.png) -->
