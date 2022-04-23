@@ -4,9 +4,9 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img  src="https://user-images.githubusercontent.com/95564961/164411517-80fe4a19-0724-4260-ac82-c7fdca9c137d.png"  width="128" height="96">
-</p>
+</p> -->
 
 
 <!-- ![logo](https://user-images.githubusercontent.com/95564961/164411517-80fe4a19-0724-4260-ac82-c7fdca9c137d.png) -->
