@@ -1,21 +1,13 @@
-<!-- ![Blue Gray Modern Project Manager LinkedIn Banner](https://user-images.githubusercontent.com/95564961/164862910-f3fc1136-7194-42a3-b220-49cfcc490c26.png) -->
-
-
+![Yellow   Black Modern Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/95564961/178223829-c4e05683-807e-4c8a-bcd0-283f9741539f.png)
 
 
 
 <p align="center">
    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<!--   <img  src="https://user-images.githubusercontent.com/95564961/164411517-80fe4a19-0724-4260-ac82-c7fdca9c137d.png"  width="128" height="96"> -->
 </p>
-
-
-<!-- ![logo](https://user-images.githubusercontent.com/95564961/164411517-80fe4a19-0724-4260-ac82-c7fdca9c137d.png) -->
 
 <h1 align="center">Hi 👋, I'm Rudra Narayan Boitei</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- -->
 A passionate Front End Developer,open source enthusiast and a student from India.
 
 - 🔭 I’m currently working on **My Personal Projects**
@@ -30,12 +22,8 @@ A passionate Front End Developer,open source enthusiast and a student from India
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
-<div align="center">
-<!--   <img src="https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg" width="35%" alt="Khadeeejah" />
- -->
-  <br />
-  
- 
+
+
 
 &nbsp;
 ## 💻 Technologies I Work With
