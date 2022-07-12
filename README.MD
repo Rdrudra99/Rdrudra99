@@ -71,9 +71,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/95564961/178397265-57f06caf-f1a6-4d5a-b97d-d90b46b16254.png" alt="" width="200">
-</div>
+
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Rdrudra99"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rdrudra99" /></a></p><br><br>
