@@ -1,29 +1,24 @@
 ![Yellow   Black Modern Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/95564961/178223829-c4e05683-807e-4c8a-bcd0-283f9741539f.png)
 
-
-
-<p align="center">
-   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
 <h1 align="center">Hi 👋, I'm Rudra Narayan Boitei</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-A passionate Front End Developer,open source enthusiast and a student from India.
+A passionate Front End Developer, open-source enthusiast, and a student from India.
 
 - 🔭 I’m currently working on **My Personal Projects**
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Development , Coding**
+- 💬 Ask me about **Development, Coding**
 
 - 👨‍💻  All of my projects are available <a href="https://github.com/Rdrudra99">@Rdruda99</a>
 
 - 📫 How to reach me **rd.rudra99@gmail.com**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+- ⚡ Fun fact **Coding is a passion and not a profession.**
 
 
 
+<div align="center">
 
 &nbsp;
 ## 💻 Technologies I Work With
@@ -37,7 +32,10 @@ A passionate Front End Developer,open source enthusiast and a student from India
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-38B4AC?style=for-the-badge&logo=GSAP&logoColor=white)
 
-<details>
+  </div>      
+  
+
+<details align="center">
   <summary>See More</summary>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -51,10 +49,14 @@ A passionate Front End Developer,open source enthusiast and a student from India
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
   </details>      
-  
-  
-  
-  ## 📱 Apps I use
+
+
+
+ <h3 align=center> 📱Apps I use </h3>
+
+  <div align="center">
+  &nbsp;
+
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -67,10 +69,14 @@ A passionate Front End Developer,open source enthusiast and a student from India
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+</div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/95564961/178397265-57f06caf-f1a6-4d5a-b97d-d90b46b16254.png" alt="" width="200">
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Rdrudra99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rdrudra99" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/Rdrudra99"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rdrudra99" /></a></p><br><br>
 
 
 
