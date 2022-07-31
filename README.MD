@@ -70,7 +70,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
-
+[![Rudra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rdrudra99)](https://github.com/Rdrudra99/github-readme-activity-graph)
 
 
 <h3 align="center">Support:</h3>
