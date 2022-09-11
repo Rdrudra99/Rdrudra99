@@ -1,4 +1,5 @@
-![Yellow   Black Modern Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/95564961/178223829-c4e05683-807e-4c8a-bcd0-283f9741539f.png)
+
+![Colorful geometric Designer LinkedIn Banner](https://user-images.githubusercontent.com/95564961/189523046-72125feb-4170-4b3f-b91d-5618ed3233ff.png)
 
 <h1 align="center">Hi 👋, I'm Rudra Narayan Boitei</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
