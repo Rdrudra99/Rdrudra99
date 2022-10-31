@@ -21,7 +21,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 <div align="center">
 
 &nbsp;
-## 💻 Technologies I Work With
+## 💻 Learning ....
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
