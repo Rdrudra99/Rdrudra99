@@ -1,6 +1,11 @@
 <!-- ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif) -->
-
-<h1 align="center">Hi 👋, I'm Rudra Narayan Boitei</h1>
+<div align="center">
+	<h1>Hi! I'm <a href="https://mathletedev.github.io">Rudra</a> 🐬 !</h1>
+	<div>Rookie programmer; professional bug creator</div>
+	<br />
+	<br />
+	<br />
+</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 A passionate Front End Developer, open-source enthusiast, and a student from India.
 
@@ -15,6 +20,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 - 📫 How to reach me **rd.rudra99@gmail.com**
 
 - ⚡ Fun fact **Coding is a passion and not a profession.**
+
 
 
 
