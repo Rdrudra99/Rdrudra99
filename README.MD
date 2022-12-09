@@ -27,7 +27,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 <div align="center">
 
 &nbsp;
-## 💻 Learning ....
+<!-- ## 💻 Learning ....
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   </div>      
-
+ -->
 
 
  <h3 align=center> 📱Apps I use </h3>
