@@ -4,8 +4,7 @@
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Rudra</a> 🐬 !</h1>
 	<div>Rookie programmer; professional bug creator</div>
 	<br />
-	<br />
-	<br />
+
 </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 A passionate Front End Developer, open-source enthusiast, and a student from India.
