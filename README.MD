@@ -1,4 +1,5 @@
-<!-- ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif) -->
+<!-- ![Orange Minimalist (LinkedIn Banner)](https://user-images.githubusercontent.com/95564961/206839528-f766522c-6426-4db4-8e4e-8d0bedd32010.png) -->
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <div align="center">
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Rudra</a> 🐬 !</h1>
 	<div>Rookie programmer; professional bug creator</div>
