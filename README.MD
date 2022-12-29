@@ -9,7 +9,7 @@ A passionate Front End Developer, open-source enthusiast, and a student from Ind
 
 - 🔭 I’m currently working on **My Personal Projects**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **	NextJs**
 
 - 💬 Ask me about **Development, Coding**
 
