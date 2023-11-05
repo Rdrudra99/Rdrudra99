@@ -1,66 +1,52 @@
-![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+# Hi there! 👋
 
-<div align="center">
-  <h1>Hi! I'm <a href="https://mathletedev.github.io">Rudra</a> 🐬!</h1>
-  <div>Rookie programmer; professional bug creator</div>
-</div>
+I'm [Your Name], a passionate [Your Profession] from [Your Location]. Welcome to my GitHub profile! Here, you can find some of my projects, contributions, and learn more about me.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+## About Me
 
-A passionate Front End Developer, open-source enthusiast, and a student from India.
+- 🔭 I'm currently working on [Your Current Project]
+- 🌱 I'm always learning and exploring new technologies.
+- 👯 I'm looking to collaborate on open-source projects.
+- 🤝 I'm open to networking and connecting with fellow developers.
+- 💬 Ask me about [Your Interests or Expertise].
+- 📫 Reach me at [Your Email Address].
+- 📝 Check out my [Personal Blog/Website] for more articles and projects.
 
-- 🔭 I’m currently working on **My Personal Projects**
-- 🌱 I’m currently learning **NextJs**
-- 💬 Ask me about **Development, Coding**
-- 👨‍💻  All of my projects are available <a href="https://github.com/Rdrudra99">@Rdruda99</a>
-- 📫 How to reach me **rd.rudra99@gmail.com**
-- ⚡ Fun fact **Coding is a passion and not a profession.**
+## Technologies and Tools
 
-<h3 align="center"> 📱Apps I use </h3>
+Here are some of the technologies and tools I'm familiar with:
 
-<div align="center">
-  &nbsp;
-  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-</div>
+- Programming Languages: [Languages]
+- Front-End Development: [Front-End Technologies]
+- Back-End Development: [Back-End Technologies]
+- Databases: [Database Systems]
+- DevOps and Tools: [DevOps Tools]
+- Other: [Other Tools and Technologies]
 
-<h2 align="center"> 📈 GitHub Stats</h2>
-<a href="https://github.com/Rdrudra99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rdrudra99&theme=noctis_minimus&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdrudra99&theme=noctis_minimus&layout=compact" />
-</a>
+## My Projects
 
-<h2 align="center"> 🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rdrudra99&theme=flat&no-frame=true&margin-w=30" alt="GitHub Trophies" />
-</p>
+- [Project 1 Name](link): Brief project description.
+- [Project 2 Name](link): Brief project description.
+- [Project 3 Name](link): Brief project description.
 
-<h2 align="center"> 📊 GitHub Activity Graph</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rdrudra99&theme=github" alt="GitHub Activity Graph" />
-</p>
+## Let's Connect
 
-<h3 align="center"> 🌐 Connect with Me</h3>
-<p align="center">
-  <!-- Add your social media badges here -->
-  <!-- Example: -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-</p>
+- LinkedIn: [Your LinkedIn Profile Link]
+- Twitter: [Your Twitter Profile Link]
+- Personal Website: [Your Website Link]
 
-<h2 align="center"> 🚀 Visitor Counter</h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Rdrudra99/count.svg" alt="Visitor Counter" />
-</p>
+Feel free to reach out, and let's connect!
 
-<h3 align="center"> Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Rdrudra99">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rdrudra99" />
-  </a>
-</p>
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+<!-- You can get GitHub stats by using the "GitHub Readme Stats" tool: https://github.com/anuraghazra/github-readme-stats -->
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
+
+<!-- You can get your top languages by using the "GitHub Readme Stats" tool. -->
+
+Thanks for visiting my GitHub profile! 😄
