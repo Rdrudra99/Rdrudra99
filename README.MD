@@ -1,12 +1,6 @@
-# Tapori Code Maestro
+# शिवताण्डवस्तोत्रम्
 
-Arre bhai,
-
-Welcome to my GitHub gully where I'm spitting code in true Tapori ishtyle. I'm weaving algorithms with bits ka jadoo and bytes ki beat. Let's code together, full-on tapori fun mein, in a jhakkaas style!
-
-## Quick Start
-
-Clone the repo and run:
-
-```bash
-npm install tapori-maestro
+**जटाटवीगलज्जलप्रवाहपावितस्थले**  
+**गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्।**  
+**डमड्डमड्डमड्डमन्निनादवड्डमर्वयं**  
+**चकार चण्डताण्डवं तनोतु नः शिवः शिवम्॥**
