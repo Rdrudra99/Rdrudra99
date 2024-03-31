@@ -1,7 +1,20 @@
 ![Design and Development](https://media.licdn.com/dms/image/D4D16AQHsR1VL96G2ew/profile-displaybackgroundimage-shrink_350_1400/0/1699772699852?e=1717632000&v=beta&t=7Brt0k5T7JNgVoSyvVCz_RCInrF-oGd2rhQGiX91ZQo)
 
 # Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+      Hi, I'm Rudra Narayan Boitei, a Software Developer Executive with a
+            focus on web development, specializing in Next.js and MongoDB.
+            Currently employed at Typof Technologies, I excel in crafting
+            innovative solutions for web applications and websites. Notable
+            achievements include spearheading the development of an AI
+            E-commerce Website Builder and creating LinkTyp, a platform for
+            centralized link management. My skills include proficiency in
+            Next.js, React, JavaScript, MongoDB, Git, and GitHub, among others.
+            I am passionate about open-source software and have actively
+            contributed to various projects. In addition, I have certification
+            in Data Structures and Algorithms from GeeksforGeeks. Outside of
+            work, I engage in extracurricular activities such as creating
+            educational content on YouTube to share knowledge and skills with a
+            wider audience.
 
 ## Skills and Experience
 * ⚛ React
