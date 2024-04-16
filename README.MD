@@ -1,4 +1,5 @@
-![Design and Development](https://i.ibb.co/7V7sB2t/Purple-Vibrant-Graphic-Designer-Twitter-Header.png)
+
+<img src="https://i.ibb.co/7V7sB2t/Purple-Vibrant-Graphic-Designer-Twitter-Header.png" alt="Design and Development" style="width: 100%;">
 
 
 # ＲｄＲｕｄｒａ９９
