@@ -1,7 +1,3 @@
-Here’s a concise and punchy version of your GitHub README while keeping it engaging and professional:
-
----
-
 # 👋 Hey, I'm Rudra (@Rdrudra99)  
 
 **Software Engineer → SaaS Founder**  
