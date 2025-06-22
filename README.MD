@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rudra (@Rdrudra99)
+# Hey, I'm Rdrudra99
 
 [![Role](https://img.shields.io/badge/Role-SaaS%20Founder-000000?style=for-the-badge&logoColor=white)](https://whyme.tech)
 [![Tech](https://img.shields.io/badge/TechStack-Next.js%20%7C%20React%20%7C%20AI-000000?style=for-the-badge&logoColor=white)](https://whyme.tech)
