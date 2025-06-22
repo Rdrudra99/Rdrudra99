@@ -22,8 +22,8 @@ skills = {
 
 ## Collaboration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraboitei)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudraboitei@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rudraboitei)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rudraboitei@gmail.com)
 
 Open to collaborations on AI projects, frontend platforms, developer tools, and product UI/UX systems. Passionate about clean design, fast performance, and solving real problems with tech.
 
