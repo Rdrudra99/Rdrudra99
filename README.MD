@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer & Software Engineer building scalable web products.</h3>
 
 <p align="center">
-  <a href="https://x.com/" target="_blank">twitter</a> •
+  <a href="https://x.com/rudranboitei" target="_blank">twitter</a> •
   <a href="https://www.linkedin.com/in/rdrudra99" target="_blank">linkedin</a> •
   <a href="https://github.com/Rdrudra99" target="_blank">github</a> •
   <a href="mailto:rudranboitei@gmail.com" target="_blank">email</a>
