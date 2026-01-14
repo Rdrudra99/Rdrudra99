@@ -1,31 +1,71 @@
-# Hey, I'm Rdrudra99
+<h1 align="center">Rudra Narayan Boitei</h1>
 
-[![Role](https://img.shields.io/badge/Role-SaaS%20Founder-000000?style=for-the-badge&logoColor=white)](https://whyme.tech)
-[![Tech](https://img.shields.io/badge/TechStack-Next.js%20%7C%20React%20%7C%20AI-000000?style=for-the-badge&logoColor=white)](https://whyme.tech)
-[![Connect](https://img.shields.io/badge/Connect-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rdrudra99)
+<h3 align="center">Frontend Developer & Software Engineer building scalable web products.</h3>
 
-Frontend Developer and AI enthusiast blending modern JavaScript frameworks with intelligent automation. I specialize in building scalable web applications using React, Next.js, Tailwind, and AI-powered workflows.
+<p align="center">
+  <a href="https://x.com/" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/rdrudra99" target="_blank">linkedin</a> •
+  <a href="https://github.com/Rdrudra99" target="_blank">github</a> •
+  <a href="mailto:rudranboitei@gmail.com" target="_blank">email</a>
+</p>
 
-## Strategic Approach
+---
 
-Bringing together strong frontend fundamentals, real-world dev experience, and a creative eye for scalable UI/UX. I focus on performance, clean code, and practical frontend system designs. My approach combines fast execution with a strong sense of design and usability.
+#### 🔷 my goto stack
+- typescript · javascript · react · next.js · node.js · express · mongoDB · postgresql · redis · firebase · supabase · tailwind · shadcn ui · redux toolkit · zustand · shopify · liquid · graphql
 
-## Core Competencies
 
-```python
-skills = {
-    'frontend': ['React', 'Next.js', 'Tailwind CSS', 'Headless UI'],
-    'backend': ['Node.js', 'MongoDB', 'REST APIs'],
-    'devops': ['Docker', 'Linux', 'CI/CD Pipelines'],
-    'ai': ['LLMs Integration', 'Prompt Engineering', 'Content Automation']
-}
-````
+#### 🔷 my latest projects
 
-## Collaboration
+Building and shipping real-world products used by actual users.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rdrudra99)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rudraboitei@gmail.com)
+- **[hardlogger](https://www.npmjs.com/package/hardlogger)** — Lightweight npm package for clean, structured logging in frontend and backend applications. Designed to replace noisy `console.log` with environment-aware logs. Works seamlessly with React, Next.js, Node.js, and Express.
 
-Open to collaborations on AI projects, frontend platforms, developer tools, and product UI/UX systems. Passionate about clean design, fast performance, and solving real problems with tech.
+- **LinkTyp** — Bio-link platform built with Next.js serving **500+ users**, improving engagement by **30%**. Includes drag-and-drop editor, responsive UI, and performance optimizations.
 
-© 2025 Rudra Boitei
+- **AI E-commerce Website Builder** — AI-powered store builder that reduced merchant setup time by **40–50%** using Next.js, MongoDB, Firebase, and LLaMA3.
+
+- **Why Me** — AI content generator built with Next.js and Shadcn UI. Integrated LLaMA3 and launched on **Product Hunt**, receiving **18+ upvotes** and community support.
+
+
+#### 🔷 building from zero
+
+I build products from zero — from frontend architecture and UI/UX to backend APIs and deployment.  
+I focus less on buzzwords and more on:
+
+- performance & scalability  
+- clean, maintainable code  
+- real-world user experience  
+- shipping features that actually matter
+
+
+#### 🔷 notable projects
+
+- **hardlogger** — npm package for structured logging across frontend & backend apps.
+- **LinkTyp** — Production bio-link platform with real users and measurable impact.
+- **AI E-commerce Website Builder** — Full-stack AI product improving onboarding speed for merchants.
+- **Why Me** — AI-powered content generator featured on Product Hunt.
+- **Shopify Custom Stores** — Multiple custom themes and headless Shopify implementations using Liquid, Polaris, and Storefront APIs.
+
+
+#### 🔷 experience
+
+**Software Developer Executive — Typof Technologies Pvt. Ltd.**  
+Dec 2022 – Present · Bhubaneswar, India
+
+- Built and maintained multiple Next.js production applications
+- Migrated legacy codebases to Next.js 13+, improving page load speed by **25%**
+- Optimized MongoDB queries, reducing API response times by **35%**
+- Developed AI-powered tools that improved workflow efficiency by **30–40%**
+- Collaborated with designers, AI engineers, and product managers in cross-functional teams
+
+
+#### 🔷 currently exploring
+- advanced Next.js patterns & performance optimization  
+- AI-powered frontend experiences  
+- headless commerce & scalable architectures  
+- building better developer tools & npm packages  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rdrudra99&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
