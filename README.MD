@@ -51,7 +51,7 @@ I focus less on buzzwords and more on:
 #### 🔷 experience
 
 **Software Developer Executive — Typof Technologies Pvt. Ltd.**  
-Dec 2022 – Present · Bhubaneswar, India
+Dec 2022 – Oct 2025 · Bangalore, India
 
 - Built and maintained multiple Next.js production applications
 - Migrated legacy codebases to Next.js 13+, improving page load speed by **25%**
